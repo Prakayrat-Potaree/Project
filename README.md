@@ -9,4 +9,4 @@ The functionality:
             4. Summarize Customer Rentals
             5. Cancel a Musical Instrument
             6. Exit
-      
+# UML Class Diagrams
