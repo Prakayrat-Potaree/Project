@@ -10,3 +10,5 @@ The functionality:
             5. Cancel a Musical Instrument
             6. Exit
 # UML Class Diagrams
+
+![208487.jpeg](https://tinypic.host/images/2024/04/28/208487.jpeg)
