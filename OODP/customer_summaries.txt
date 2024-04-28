@@ -1,0 +1,1 @@
+CUS1 ,  Customer Name : nor ,  Instrument Name : Flute ,  Number of rent day : 1 ,  Total price : 80.0 Bath
